@@ -6,7 +6,7 @@
 المتطلبات
 <p dir="rtl">
 Wordpress
-
+<p dir="rtl">
 Xamp
 
 <h1>شكل الصفحة الرئيسية</h1>
